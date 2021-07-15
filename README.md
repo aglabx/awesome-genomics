@@ -6,7 +6,7 @@ Shengjun Tan et al. 2021. [DNA transposons mediate duplications via transpositio
 
 ## Repeat finding programs
 
-[A bioinformatic analysis of integrative mobile genetic elements highlights their role in bacterial adaptation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952549/)
+MGEfinder. [A bioinformatic analysis of integrative mobile genetic elements highlights their role in bacterial adaptation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6952549/)
 
 ## BERTology meets biology
 

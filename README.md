@@ -11,3 +11,7 @@ MGEfinder. [A bioinformatic analysis of integrative mobile genetic elements high
 ## BERTology meets biology
 
 Mock et al. 2021. [BERTax: taxonomic classification of DNA sequences with Deep Neural Networks](https://www.biorxiv.org/content/10.1101/2021.07.09.451778v1?rss=1)
+
+## Metabolomics
+
+[A metabolomics pipeline for the mechanistic interrogation of the gut microbiome](https://www.nature.com/articles/s41586-021-03707-9)
